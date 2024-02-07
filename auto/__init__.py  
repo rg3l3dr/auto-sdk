@@ -1,0 +1,4 @@
+# in __init__.py
+from .issuer import Issuer
+from .verifier import Verifier
+from .subject import Subject
